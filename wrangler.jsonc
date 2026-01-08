@@ -1,5 +1,5 @@
 {
    "name": "webtual-amp",
    "compatibility_date": "2026-01-08",
-   "main": "src/amp.html"
+   "main": "amp.html"
   }
